@@ -3,7 +3,7 @@ solo-deploy
 
 A bash script for chef-solo deployment
 
-There are a few active tools which I like (pocketknife and littlechef), however, when the chef-solo run breaks, it can be hard to diagnose.  Therein lies the reason for this scripts existence.
+There are a few active tools which I like (pocketknife and littlechef), however, when the chef-solo run breaks, it can be hard to diagnose.  Therein lies the reason for this script's existence.
 
 It assumes that chef is installed and there is a /etc/chef/solo.rb file like this:
 
